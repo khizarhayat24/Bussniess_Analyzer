@@ -118,7 +118,7 @@ python main.py --shap
 streamlit run app.py
 ```
 
-Opens at **http://localhost:8501** in your browser. Upload the CSV from the sidebar and the full dashboard loads instantly.
+Opens at **https://bussniessanalyzer.streamlit.app** in your browser. Upload the CSV from the sidebar and the full dashboard loads instantly.
 
 ### Run weekly automation
 
