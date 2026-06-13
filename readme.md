@@ -45,10 +45,10 @@ dataAnalyze/
 ├── 🐍 models.py                  → Train & evaluate ML models
 ├── 🐍 insights.py                → Generate business insights report
 │
-├── 🐍 shap_explainability.py     → [Bonus] Explain model predictions
-├── 🐍 weekly_pipeline.py         → [Bonus] Auto-run every Monday
-├── 🐍 email_report.py            → [Bonus] Send HTML email reports
-├── 🐍 app.py                     → [Bonus] Streamlit dashboard
+├── 🐍 shap_explainability.py     
+├── 🐍 weekly_pipeline.py         
+├── 🐍 email_report.py            
+├── 🐍 app.py                     
 │
 ├── 📄 requirements.txt
 ├── 📄 README.md
